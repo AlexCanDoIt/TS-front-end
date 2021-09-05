@@ -1,0 +1,9 @@
+.rentButton {
+  margin-left: auto;
+  background-color: #2d2dc5;
+}
+
+.deleteButton {
+  margin-left: 20px;
+  background-color: tomato;
+}
